@@ -1,4 +1,1 @@
-PIL
-pandas
 streamlit
-numpy
